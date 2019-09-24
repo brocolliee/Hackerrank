@@ -1,3 +1,4 @@
 # Hackerrank
 
-|The Coin Change Problem | Dynamic Programming | [problem](https://www.hackerrank.com/challenges/coin-change/problem) | [Solution.java]|
+[Dynamic Programming]
+The Coin Change Problem | [problem](https://www.hackerrank.com/challenges/coin-change/problem) | [Solution.java] |
