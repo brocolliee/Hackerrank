@@ -5,17 +5,10 @@ import java.util.*;
 
 class Result {
 
-    /*
-     * Complete the 'getWays' function below.
-     *
-     * The function is expected to return a LONG_INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER n
-     *  2. LONG_INTEGER_ARRAY c
-     */
-
+	// calculate ways
     public static long getWays(int n, List<Long> c) {
-    // Write your code here
+    	
+    	// make combination array
     	long[] combination = new long[n+1];
     	combination[0] = 1;
     	
@@ -24,7 +17,6 @@ class Result {
             for( int j = (int)coin ; j < combination.length; j++) {
                 if (j >= coin)
                     combination[j] += combination[(int) (j-coin)];
-                
             }
             
     	}
@@ -49,6 +41,7 @@ public class Solution {
         List<Long> c = Arrays.asList(coins);
         
         long ways = Result.getWays(amount, c);
+        
         System.out.print(ways);
         
     }
