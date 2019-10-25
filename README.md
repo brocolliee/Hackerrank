@@ -1,8 +1,17 @@
 # Hackerrank
+[Hackerrank](https://www.hackerrank.com/)   
 
-#### [Hackerrank](https://www.hackerrank.com/)
+###Interview Preparation Kit
+- Warm-UP
+    - Sock Merchant
+    - Counting Valleys
+    - Jumping on the Clouds
+    - Repeated String
 
-- Algorthims
-- Interview Preparation Kit
+
+###Algorithms
+- Dynamic Programming
+    - Equal
+    - The Coin Change Problem
 
 
