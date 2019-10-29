@@ -6,12 +6,15 @@
     - Sock Merchant
     - Counting Valleys
     - Jumping on the Clouds
-    - Repeated String
+    - Repeated String  
 
+- Arrays
+    - 2D Array DS 
 
 ### Algorithms
 - Dynamic Programming
     - Equal
     - The Coin Change Problem
+
 
 
