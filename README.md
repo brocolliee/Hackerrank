@@ -10,6 +10,8 @@
 
 - Arrays
     - 2D Array DS 
+    - Left Rotations  
+
 
 ### Algorithms
 - Dynamic Programming
