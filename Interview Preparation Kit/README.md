@@ -9,3 +9,4 @@
 ### Arrays
 - 2D Array - DS | [problem](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution.java](./Arrays/2D%20Arrays%20DS/Solution.java) | 
 - Arrays : Left Rotation | [problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution.java](./Arrays/Left%20Rotation/Solution.java) | 
+- New Year Chaos | [problem](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution.java](./Arrays/New%20Year%20Chaos/Solution.java) | 
