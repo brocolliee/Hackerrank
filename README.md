@@ -12,6 +12,7 @@
     - 2D Array DS 
     - Left Rotations  
     - New Year Chaos
+    - Minimum Swap2
 
 ### Algorithms
 - Dynamic Programming
