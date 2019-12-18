@@ -11,4 +11,7 @@
 - Arrays : Left Rotation | [problem](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution.java](./Arrays/Left%20Rotation/Solution.java) | 
 - New Year Chaos | [problem](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution.java](./Arrays/New%20Year%20Chaos/Solution.java) | 
 - Minimum Swap2 | [problem](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=arrays)) |  [Solution.java](./Arrays/Minimum%Swap2/Solution.java) | 
+- Array Manipulation | [problem](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&page=5&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&page=5&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=arrays)) |  [Solution.java](./Arrays/Array%Manipulation/Solution.java) | 
+
+### Dictionaries and Hashmaps
 
