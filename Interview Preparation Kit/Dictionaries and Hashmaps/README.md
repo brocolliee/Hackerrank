@@ -1,5 +1,12 @@
 # Dictionaries and HashMaps
 
+### Content
+
+* [Hash Tables](#Hash Tables)
+* 
+
+
+
 ### Hash Tables
 
 *Hackerrank 자료 구조 Hash Table 강의 참고*
@@ -14,9 +21,11 @@
 
   * String (Key) => Hash Function - Hash Code => index
 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/2560px-Hash_table_3_1_1_0_1_0_0_SP.svg.png" alt="img" style="zoom:20%;" /> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/2560px-Hash_table_3_1_1_0_1_0_0_SP.svg.png" alt="img" style="zoom:10%;" /> 
 
     (출처 :  https://en.wikipedia.org/wiki/Hash_table )
+    
+    
 
 #### Time Complexity
 
@@ -47,9 +56,11 @@ class Hashtable{
 }
 ```
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hash_table_5_0_1_1_1_1_1_LL.svg/2880px-Hash_table_5_0_1_1_1_1_1_LL.svg.png" alt="img" style="zoom:20%;" /> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hash_table_5_0_1_1_1_1_1_LL.svg/2880px-Hash_table_5_0_1_1_1_1_1_LL.svg.png" alt="img" style="zoom:10%;" /> 
 
 (출처 :  https://en.wikipedia.org/wiki/Hash_table )
+
+
 
 ##### Open Addressing
 

@@ -15,5 +15,7 @@
 
 ### Dictionaries and Hashmaps
 
+* [README](./Dictionaries%20and%20Hashmaps/README.md) - HashTable
+
 * Hash Tables : Ransom Note | [problem](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dictionaries-hashmaps) ) |  [Solution.java](./Dictionaries%20and%20Hashmaps/HashTables_Ransom%20Note/Solution.java) | 
 
