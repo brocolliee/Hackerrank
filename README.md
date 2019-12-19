@@ -14,7 +14,7 @@
     - Minimum Swap2
     - Array Manipulation
 - Dictionaries and Hashmaps
-    - 
+    - Hash Tables : Ransom Note
 
 ### Algorithms
 - Dynamic Programming
