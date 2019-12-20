@@ -15,6 +15,7 @@
     - Array Manipulation
 - Dictionaries and Hashmaps
     - Hash Tables : Ransom Note
+    - Two Strings
 
 ### Algorithms
 - Dynamic Programming
