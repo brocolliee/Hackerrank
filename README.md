@@ -16,11 +16,10 @@
 - Dictionaries and Hashmaps
     - Hash Tables : Ransom Note
     - Two Strings
+    - Sherlock and Anagrams
 
 ### Algorithms
 - Dynamic Programming
     - Equal
     - The Coin Change Problem
-
-
 
