@@ -17,6 +17,8 @@
     - Hash Tables : Ransom Note
     - Two Strings
     - Sherlock and Anagrams
+    - Count Triplets
+    - 
 
 ### Algorithms
 - Dynamic Programming
