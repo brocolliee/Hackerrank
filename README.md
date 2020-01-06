@@ -18,6 +18,8 @@
     - Two Strings
     - Sherlock and Anagrams
     - Count Triplets
+    - Frequency Queries
+- Sorting
     - 
 
 ### Algorithms
