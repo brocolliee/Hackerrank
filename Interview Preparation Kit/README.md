@@ -21,3 +21,11 @@
 * Sherlock and Anagrams |  [problem](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dictionaries-hashmaps)  ) |  [Solution.java](./Dictionaries%20and%20Hashmaps/Sherlock%20And%20Anagrams/Solution.java) | 
 * Count Triplets |[problem](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dictionaries-hashmaps) ) | [Solution.java](./Dictionaries%20and%20Hashmaps/Count%20Triplets/Solution.java) | 
 * Frequency Queries| [problem](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dictionaries-hashmaps) ) |  [Solution.java](./Dictionaries%20and%20Hashmaps/Frequency%20Queries/Solution.java) | (** Time Limit) 
+
+### Sorting
+
+- [README](./Sorting/README.md) - Bubble Sort
+
+* Sorting: Bubble Sort | [problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting)  ) |  [Solution.java](./Sorting/Bubble%20Sort/Solution.java) |
+
+- Mark and Toys | [problem](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting) ) |  [Solution.java](./Sorting/Mark%20and%20Toys/Solution.java) |

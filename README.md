@@ -20,7 +20,8 @@
     - Count Triplets
     - Frequency Queries
 - Sorting
-    - 
+    - Sorting: Bubble Sort
+    - Mark and Toys
 
 ### Algorithms
 - Dynamic Programming
