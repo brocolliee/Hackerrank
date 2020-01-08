@@ -1,8 +1,13 @@
 # Sorting
 
+### Contents
+
+- [Bubble Sort](#Bubble%20Sort)
+- [Quick Sort](#Quick%20Sort)
 
 
-### Bubble Sort
+
+## Bubble Sort
 
 *Hackerrank Algorithm Bubble Sort 강의 참고*
 
@@ -37,3 +42,69 @@
 	}
 ~~~
 
+
+
+## Quick Sort
+
+*Hackerrank Algorithm Quick Sort 강의 참고*
+
+#### 정의 및 특징
+
+- pivot element를 사용하여 pivot 보다 작으면 왼쪽으로 크면 오른쪽으로 값을 놓는다. 
+
+- pivot element 는 임의로 선정 하여 사용 ( 배열 첫번째 혹은 중간)
+
+  <img src="./Imgs/QuickSortImg.png" alt="QuickSort" style="zoom:50%;" >
+
+  1. pivot을 뽑는다. ( pivot  = 8 )
+  2. pivot item보다 작으면 왼쪽으로 크면 오른쪽으로 값을 놓는 작업인 partition 진행
+  3. partition을 진행 후 pivot item의 왼쪽 배열을 다시 똑같이 진행한다. (recursive)
+     - 왼쪽 부분 배열의 첫번째를 다시 pivot item으로 잡고 partition 진행
+
+#### Time Complexity
+
+- average
+  - partition: T(n) = n-1
+  - quicksort : O(nlogn) 
+
+- worst-case
+  - quicksort: O(n^2)
+
+~~~java
+	// Code from Hackerrank lecture
+	public static void quicksort(int[] array) {
+    	quicksort(array, 0 , array.length -1); // call recursive method
+    }
+    
+    public static void quicksort(int[] array, int left , int right) {
+    	if( left >= right)
+    		return;
+    	
+    	int pivot = array[(left + right /2)]; 
+    	int index = partition(array, left, right, pivot);
+    	quicksort(array, left, index -1);
+    	quicksort(array, index, right);
+    	
+    }
+    
+    public static int partition(int[] array, int left, int right, int pivot) {
+    	while(left <= right) {
+    		while(array[left] < pivot ) {
+    			left++;
+    		}
+    		
+    		while(array[right] > pivot ) {
+    			right--;
+    		}
+    		
+    		if( left <= right) {
+    			swap(array, left, right);
+    			left++;
+    			right--;
+    		}
+    	}
+    	return left;
+    }
+~~~
+
+더 자세한 코드는 [QuickSort 코드](./Comparator/QuickSort.java) 참고

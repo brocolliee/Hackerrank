@@ -22,6 +22,7 @@
 - Sorting
     - Sorting: Bubble Sort
     - Mark and Toys
+    - Sorting: Comparator
 
 ### Algorithms
 - Dynamic Programming

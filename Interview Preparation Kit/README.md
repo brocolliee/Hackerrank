@@ -24,8 +24,9 @@
 
 ### Sorting
 
-- [README](./Sorting/README.md) - Bubble Sort
+- [README](./Sorting/README.md) - Bubble Sort , Quick Sort
 
 * Sorting: Bubble Sort | [problem](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting)  ) |  [Solution.java](./Sorting/Bubble%20Sort/Solution.java) |
 
 - Mark and Toys | [problem](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting) ) |  [Solution.java](./Sorting/Mark%20and%20Toys/Solution.java) |
+- Sorting: Comparator | [problem](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=sorting) ) |  [Solution.java](./Sorting/Comparator/Solution.java) |
