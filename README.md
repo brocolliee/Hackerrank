@@ -23,9 +23,10 @@
     - Sorting: Bubble Sort
     - Mark and Toys
     - Sorting: Comparator
+    - Fraudulent Activity Notifications
 
 ### Algorithms
 - Dynamic Programming
     - Equal
     - The Coin Change Problem
-
+    - 
