@@ -24,6 +24,7 @@
     - Mark and Toys
     - Sorting: Comparator
     - Fraudulent Activity Notifications
+    - Merge Sort : Counting Inversions
 
 ### Algorithms
 - Dynamic Programming
