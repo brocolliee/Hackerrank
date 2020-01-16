@@ -25,6 +25,9 @@
     - Sorting: Comparator
     - Fraudulent Activity Notifications
     - Merge Sort : Counting Inversions
+- String Manipulation
+    - Strings : Making Anagrams
+    - 
 
 ### Algorithms
 - Dynamic Programming
