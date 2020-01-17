@@ -27,6 +27,7 @@
     - Merge Sort : Counting Inversions
 - String Manipulation
     - Strings : Making Anagrams
+    - Alternating Characters
     - 
 
 ### Algorithms
