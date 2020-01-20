@@ -37,4 +37,6 @@
 
 - [README](./String%20Manipulation/README.md) - String vs StringBuilder
 - Strings: Making Anagrams | [problem](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings) | [Solution.java](./String%20Manipulation/Making%20Anagrams/Solution.java) |
-- Alternating Characters | [problem](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings) ) | [Solution.java](./String%20Manipulation/Alternating%20Characters/Solution.java) |
+- Alternating Characters | [problem](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings)  | [Solution.java](./String%20Manipulation/Alternating%20Characters/Solution.java) |
+- Sherlock and the Valid String | [problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings) | [Solution.java](./String%20Manipulation/Sherlock%20and%20the%20Valid%20String/Solution.java) |
+
