@@ -41,3 +41,5 @@
 - Sherlock and the Valid String | [problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings) | [Solution.java](./String%20Manipulation/Sherlock%20and%20the%20Valid%20String/Solution.java) |
 - Special String Again | [problem](https://www.hackerrank.com/challenges/special-palindrome-again/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings) | [Solution.java](./String%20Manipulation/Special%20String%20Again/Solution.java) |
 
+- Common Child| [problem](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings)  | [Solution.java](./String%20Manipulation/Common%20Child/Solution.java) |
+
