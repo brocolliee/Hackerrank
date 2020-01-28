@@ -45,5 +45,5 @@
 
 ### Greedy Algorithms
 
-- Minimum Absolute Difference in an Array |  [problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms)  | [Solution.java](./Greedy%20Algorithms/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) |
-- 
+- Minimum Absolute Difference in an Array |  [problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms) | [Solution.java](./Greedy%20Algorithms/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) |
+- Luck Balance |  [problem](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms)  | [Solution.java](./Greedy%20Algorithms/Luck%20Balance/Solution.java) |
