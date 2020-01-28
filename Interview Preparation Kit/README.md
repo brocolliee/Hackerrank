@@ -43,3 +43,7 @@
 
 - Common Child| [problem](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=strings)  | [Solution.java](./String%20Manipulation/Common%20Child/Solution.java) |
 
+### Greedy Algorithms
+
+- Minimum Absolute Difference in an Array |  [problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms)  | [Solution.java](./Greedy%20Algorithms/Minimum%20Absolute%20Difference%20in%20an%20Array/Solution.java) |
+- 
