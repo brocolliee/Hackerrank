@@ -50,3 +50,5 @@
 - Greedy Florist |  [problem](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms)  | [Solution.java](./Greedy%20Algorithms/Greedy%20Florist/Solution.java) |
 - Max Min|  [problem](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms&h_r=next-challenge&h_v=zen)  | [Solution.java](./Greedy%20Algorithms/Max%20Min/Solution.java) |
 
+- Reverse Shuffle Merge|  [problem](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=greedy-algorithms) | [Solution.java](./Greedy%20Algorithms/Reverse%20Shuffle%20Merge/Solution.java) | (** 설명 )
+
