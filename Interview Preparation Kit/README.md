@@ -54,4 +54,5 @@
 
 ### Search
 
-- 
+- [README](./Search/README.md) - String vs StringBuilder
+- Hash Tables: Ice Cream Parlor | [problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search)| [Solution.java](./Search/Ice%20Cream%20Parlor/Solution.java) |
