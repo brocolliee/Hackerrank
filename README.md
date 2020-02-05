@@ -8,6 +8,7 @@
 - Sorting
 - String Manipulation
 - Greedy Algorithms
+- Search
 
 ### Algorithms
 - Dynamic Programming
