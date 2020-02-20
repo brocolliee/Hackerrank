@@ -54,6 +54,7 @@
 
 ### Search
 
-- [README](./Search/README.md) - String vs StringBuilder
+- [README](./Search/README.md) - Binary Search
 - Hash Tables: Ice Cream Parlor | [problem](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search)| [Solution.java](./Search/Ice%20Cream%20Parlor/Solution.java) |
 - Swap Nodes [Algo] | [problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search) | [Solution.java](./Search/Swap%20Nodes%20[Algo]/Solution.java) ** [해설 사이트](https://rusyasoft.github.io/competitive%20programming/2018/07/24/hrank-swapNodes/)
+- Pairs | [problem](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search) | [Solution.java](./Search/Pairs/Solution.java) |
