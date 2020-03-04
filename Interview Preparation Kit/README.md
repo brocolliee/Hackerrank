@@ -61,4 +61,5 @@
 - Triple Sum |  [problem](https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search)  | [Solution.java](./Search/Triple%20Sum/Solution.java) |
 - Minimum Time Required |  [problem](https://www.hackerrank.com/challenges/minimum-time-required/problem?h_l=interview&h_r=next-challenge&h_v=zen&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search)   | [Solution.java](./Search/Minimum%20Time%20Required/Solution.java) |
 - Maximum Subarray Sum |  [problem](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem )   | [Solution.java](./Search/Maximum%20Subarray%20Sum/Solution.java) | ** [해설 사이트](https://brokensandals.net/hackerrank-maximum-subarray-sum/ )
+- Making Candies |  [problem](https://www.hackerrank.com/challenges/making-candies/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=search)    | [Solution.java](./Search/Making%20Candies/Solution.java) | ** 다시 생각 해보기 (search에 맞게)
 
