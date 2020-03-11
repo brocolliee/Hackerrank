@@ -1,7 +1,8 @@
 # Hackerrank
-[Hackerrank](https://www.hackerrank.com/)   
+[Hackerrank](https://www.hackerrank.com/)   - 사이트 바로가기
 
-### Interview Preparation Kit
+### [Interview Preparation Kit](./Interview%20Preparation%20Kit/)
+
 - Warm-UP
 - Arrays
 - Dictionaries and Hashmaps
@@ -13,6 +14,6 @@
 
 
 
-### Algorithms
+### [Algorithms](./Algorithms/)
 - Dynamic Programming
 
