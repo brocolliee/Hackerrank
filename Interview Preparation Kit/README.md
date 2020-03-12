@@ -67,3 +67,5 @@
 
 - Max Array Sum |  [problem](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dynamic-programming)  |  [Solution.java](./Dynamic%20Programming/Max%20Array%20Sum/Solution.java) | 
 - Abbreviation |  [problem](https://www.hackerrank.com/challenges/abbr/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dynamic-programming) |  [Solution.java](./Dynamic%20Programming/Abbreviation/Solution.java) | 
+- Candies |   [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs[]=interview-preparation-kit&playlist_slugs[]=dynamic-programming) |  [Solution.java](./Dynamic%20Programming/Candies/Solution.java) | 
+
