@@ -11,6 +11,7 @@
 - Greedy Algorithms
 - Search
 - Dynamic Programming
+- Stacks and Queues
 
 
 
