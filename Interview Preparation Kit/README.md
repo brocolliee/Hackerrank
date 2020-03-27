@@ -76,6 +76,7 @@
 - Balanced Brackets | [problem](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [Solution.java](./Stacks%20and%20Queues/Balanced%20Brackets/Solution.java) |
 - Queues - A Tale of Two Stacks | [problem](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues&h_r=next-challenge&h_v=zen) | [Solution.java](./Stacks%20and%20Queues/Queues%20-%20A%20Tale%20of%20Two%20Stacks/Solution.java) |
 - Largest Rectangle | [problem](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [Solution.java](./Stacks%20and%20Queues/Largest%20Rectangle/Solution.java) | ** 다시 생각 해보기 (stack에 맞게)
+- Min Max Riddle | [problem](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues) | [Solution.java](./Stacks%20and%20Queues/Min%20Max%20Riddle/Solution.java) | ** [해설 사이트](https://sungjun221.github.io/algorithm/main/Min-Max-Riddle/)
 
-### 
+###
 
